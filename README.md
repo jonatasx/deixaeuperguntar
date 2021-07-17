@@ -1,5 +1,7 @@
 # deixaeuperguntar
 um questionario feito em reactJS
+
+GIVE A 'YARN 'COMMAND FIRST TO RUN THE PROJECT 🐦
 Getting Started with Create React App
 
 This project was bootstrapped with Create React App.
